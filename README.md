@@ -16,3 +16,8 @@ the dataset was imported via wizard into a table named online_sales with the fol
 - csv Database
 
 ---
+## Screenshots
+
+Screenshots of query outputs are available in the sql 'screenshots task 6` folder.
+
+---
